@@ -1,4 +1,4 @@
- # 🏄🏼‍♀️ SurfSpot - Explore & Partage les meilleurs Spot de Surf
+# 🏄🏼‍♀️ SurfSpot - Explore & Partage les meilleurs Spot de Surf
 
  **SurfSpot** est une application mobile développée en **SwiftUI** qui permet aux passionnés de surf de découvrir, consulter et partager les meilleures spot de surf à travers le monde.
 
@@ -9,7 +9,7 @@
 - **Fiches Détail**: Accède à des informations complètes sur chaque spot : le niveau de difficulté, pays, adress, le type de vaque.
 - **Ajouter nouveau spot** : Ajoute facilement un nouveau spot via un formulaire simple et instuitif.
 
-  ##Technologies
+ ## Technologies
 -  **SwiftUI** pour interface fluide et moderne
 
   ##Fontionnalités à venir
